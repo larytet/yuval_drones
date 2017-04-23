@@ -9,3 +9,4 @@
 *  http://www.scirp.org/journal/PaperInformation.aspx?paperID=378
 *  In this way, positioning can be achieved within a radius of 10 meters https://arxiv.org/pdf/1204.1748.pdf
 *  BT based http://estimote.com/
+*  General stuff https://locatify.com/blog/indoor-positioning-systems-ble-beacons/
