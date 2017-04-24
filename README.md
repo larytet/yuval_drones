@@ -13,3 +13,4 @@
 *  Short distance http://docs.beaconstac.com/docs/common-questions.html and long range BT based https://en.wikipedia.org/wiki/IBeacon
 *  https://www.quora.com/What-is-the-positioning-accuracy-of-iBeacon-and-other-BLE-technology
 * Comparison Wifi-BT http://www.cl.cam.ac.uk/~rmf25/papers/BLE.pdf
+*  https://what3words.com/
