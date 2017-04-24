@@ -15,3 +15,4 @@
 * Comparison Wifi-BT http://www.cl.cam.ac.uk/~rmf25/papers/BLE.pdf
 *  https://what3words.com/
 * https://en.wikipedia.org/wiki/QR_code
+*  IR paint http://www.anytimesign.com/infrared_magic_black_ir_transparent_paint.htm
