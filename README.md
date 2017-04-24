@@ -14,3 +14,4 @@
 *  https://www.quora.com/What-is-the-positioning-accuracy-of-iBeacon-and-other-BLE-technology
 * Comparison Wifi-BT http://www.cl.cam.ac.uk/~rmf25/papers/BLE.pdf
 *  https://what3words.com/
+* https://en.wikipedia.org/wiki/QR_code
